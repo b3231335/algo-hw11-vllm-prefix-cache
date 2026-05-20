@@ -1,8 +1,8 @@
 # algo-hw11-vllm-prefix-cache
 # Algorithms HW11 — vLLM Prefix Caching
 ## 學生資訊
-- 姓名：[鄭宇紘]
-- 學號：[B3231335]
+- 姓名：鄭宇紘
+- 學號：B3231335
 - 課程：3468 演算法 1142
 ## 實驗環境
 - 平台：Google Colab T4 / WSL2 / 純 Linux（擇一）
